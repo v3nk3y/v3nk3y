@@ -41,4 +41,3 @@ Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 
 <a href="http://www.github.com/v3nk3y"><img src="https://github-readme-streak-stats.herokuapp.com/?user=v3nk3y&stroke=64748b&background=1c1917&ring=facc15&fire=facc15&currStreakNum=64748b&currStreakLabel=facc15&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/v3nk3y"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=v3nk3y&bg_color=1c1917&color=64748b&line=64748b&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

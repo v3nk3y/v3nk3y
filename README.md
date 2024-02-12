@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is v3nk3y !
 ================================================================================================================================
 
-- 🚀 Experienced Front-End Developer 
-- ⚡  Demonstrated proficiency with 8 years of hands-on experience 
-- 🛠 Specialized expertise in Angular development 
-- 📚 Quick learner
-- 🌍 I'm based in Toronto, Candada
-- 📫 Reach me at [nagireddyvenkatesh@gmail.com](mailto:nagireddyvenkatesh@gmail.com)
+- 🚀  Experienced Front-End Developer 
+- ⚡   Demonstrated proficiency with 8 years of hands-on experience 
+- 🛠  Specialized expertise in Angular development 
+- 📚  Quick learner
+- 🌍  I'm based in Toronto, Candada
+- 📫  Reach me at [nagireddyvenkatesh@gmail.com](mailto:nagireddyvenkatesh@gmail.com)
 
 ### Skills
 

@@ -17,7 +17,7 @@ Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 ================================================================================================================================
 
 - 🚀 Experienced Front-End Developer 
-- ⚡  Demonstrated proficiency with 8 years of hands-on experience 
+- ⚡  8+ years of hands-on experience 
 - 🛠 Specialized expertise in Angular development 
 - 📚 Quick learner
 - 🌍 I'm based in Toronto, Canada

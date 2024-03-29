@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
-- 🚀 Experienced Front-End Developer 
+- 🚀 Professional Front-End Developer 
 - ⚡  8+ years of hands-on experience 
 - 🛠 Specialized expertise in Angular development 
 - 📚 Quick learner

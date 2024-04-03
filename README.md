@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
-- 🚀 Professional Front-End Developer 
+- 🚀 Professional Front-End Developer | Software Engineer
 - ⚡ 8+ years of hands-on experience 
-- 🛠 Specialized expertise in Angular development 
+- 🛠 Specialized expertise in Angular development
+- ⚡️ Current focus on Next.js, React, TailwindCSS, and Framer Motion
 - 📚 Quick learner
 - 🌍 I'm based in Toronto, ON, Canada
 - 📫 Reach me at [nagireddyvenkatesh@gmail.com](mailto:nagireddyvenkatesh@gmail.com)

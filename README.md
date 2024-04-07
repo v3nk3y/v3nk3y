@@ -19,7 +19,7 @@ Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 - 🚀 Professional Front-End Developer | Software Engineer
 - ⚡ 8+ years of hands-on experience 
 - 🛠 Specialized expertise in Angular development
-- 🔥 Current focus on Next.js, React, TailwindCSS, and Framer Motion
+- 🔥 Current focus on Next.js, React, Tailwind CSS, and Framer Motion
 - 📚 Quick learner
 - 🌍 I'm based in Toronto, ON, Canada
 - 📫 Reach me at [nagireddyvenkatesh@gmail.com](mailto:nagireddyvenkatesh@gmail.com)

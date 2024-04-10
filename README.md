@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
-- 🚀 Professional Front-End Developer | Software Engineer
+- 🚀 Professional Front-End Developer | Full Stack Developer | Software Engineer
 - ⚡ 8+ years of hands-on experience 
 - 🛠 Specialized expertise in Angular development
 - 🔥 Current focus on Next.js, React, Tailwind CSS, and Framer Motion

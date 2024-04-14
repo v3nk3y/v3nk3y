@@ -17,7 +17,7 @@ Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 ================================================================================================================================
 
 - 🚀 Professional Front-End Developer | Full Stack Developer | Software Engineer
-- ⚡ 8+ years of hands-on experience 
+- ⚡ 8+ years of hands-on experience
 - 🛠 Specialized expertise in Angular development
 - 🔥 Current focus on Next.js, React, Tailwind CSS, and Framer Motion
 - 📚 Quick learner

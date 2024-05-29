@@ -23,7 +23,7 @@ Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 - 📚 Quick learner
 - 🌍 I'm based in Toronto, ON, Canada
 - 📫 Reach me at [nagireddyvenkatesh@gmail.com](mailto:nagireddyvenkatesh@gmail.com)
-- 🌍 [www.venkateshnagireddy.com]
+- 🌍 www.venkateshnagireddy.com
 
 ### Skills
 

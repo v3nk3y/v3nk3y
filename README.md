@@ -17,9 +17,8 @@ Hello.....I’m Venkatesh ![](https://user-images.githubusercontent.com/18350557
 
 ===============================================================================================
 
-- 🚀 Senior Software Engineer with **10+ years** building **enterprise-scale web applications** using **React, Next.js, TypeScript, JavaScript, Angular**, and modern UI tooling.
-- 🔍 I focus on **performance**, **accessibility (WCAG 2.1 AA)**, and building **scalable component systems**.
-- 🏗️ 10+ years of hands-on experience
+- 🚀 Senior Software Engineer with 10+ years building enterprise-scale web applications using React, Next.js, TypeScript, JavaScript, Angular, and modern UI tooling.
+- 🔍 I focus on performance, accessibility (WCAG 2.1 AA), and building scalable component systems.
 - 🔥 Currently experimenting with AI Agents and AI-Powered Development
 - 📚 Quick learner
 - 🌍 I'm based in Toronto, ON, Canada

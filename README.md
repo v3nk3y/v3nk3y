@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # **Hello.....I’m Venkatesh** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-===============================================================================================
-
 - 🚀 Senior Software Engineer with 10+ years building enterprise-scale web applications using React, Next.js, TypeScript, JavaScript, Angular, and modern UI tooling.
 - 🔍 I focus on performance, accessibility (WCAG 2.1 AA), and building scalable component systems.
 - 🔥 Currently experimenting with AI Agents and AI-Powered Development

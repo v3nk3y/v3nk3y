@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello..... ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello.....I’m Venkatesh ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 ================================================================================================================================
 
-- 🚀 Professional Front-End Developer | Full Stack Developer | Software Engineer
-- ⚡ 10+ years of hands-on experience
-- 🛠 Specialized expertise in Angular development
-- 🔥 Current focus on Next.js, React, Tailwind CSS, and Framer Motion
+- 🚀 Senior Software Engineer with **10+ years** building **enterprise-scale web applications** using **React, Next.js, TypeScript, JavaScript, Angular**, and modern UI tooling.
+- 🔍 I focus on **performance**, **accessibility (WCAG 2.1 AA)**, and building **scalable component systems**.
+- 🏗️ 10+ years of hands-on experience
+- 🔥 Currently experimenting with AI Agents and AI-Powered Development
 - 📚 Quick learner
 - 🌍 I'm based in Toronto, ON, Canada
 - 📫 Reach me at [nagireddyvenkatesh@gmail.com](mailto:nagireddyvenkatesh@gmail.com)
-- 🌍 www.venkateshnagireddy.com
+- 🔬 Portfolio -> www.venkateshnagireddy.com
 
 ### Skills
 

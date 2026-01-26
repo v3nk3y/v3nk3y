@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🚀 Senior Software Engineer with 10+ years building enterprise-scale web applications using React, Next.js, TypeScript, JavaScript, Angular, and modern UI tooling.
 - 🔍 I focus on performance, accessibility (WCAG 2.1 AA), and building scalable component systems.
-- 🔥 Currently experimenting with AI Agents and AI-Powered Development
-- 📚 Quick learner
+- 🔥 Exploring AI-assisted development and agent-based workflows
+- 📚 Continuous learner focused on modern frontend practices
 - 🌍 I'm based in Toronto, ON, Canada
 - 📫 Reach me at [nagireddyvenkatesh@gmail.com](mailto:nagireddyvenkatesh@gmail.com)
 - 🔬 Portfolio -> www.venkateshnagireddy.com
